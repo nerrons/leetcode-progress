@@ -1,2 +1,2 @@
 # leetcode-progress
-marking leetcode progress with friends.
+Marking leetcode progress with friends.
