@@ -4,3 +4,5 @@
 - #2 - add two numbers
 ## 2019-10-28
 - #3 - Longest Substring Without Repeating Characters
+## 2019-10-29
+- #4 - Median of Two Sorted Arrays. Boundaries henmafan. Probably need more patience
