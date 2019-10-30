@@ -24,6 +24,8 @@ Doing some easy problems on arrays.
 - #922 - sort array by parity ii.
 - #985 - sum of even numbers after queries.
 - #999 - available captures for rook.
+
+## 2019-10-30
 - #1170 - compare strings... a good take on using the constraints. If something is small and needs to be counted, it's often worth it to use buckets.
 - #1089 - duplicate zeros. classic two-pointers; a good practice on edge cases.
 - #888 - fair candy swap. basically the same as Two Sum; the use of `unordered_set` and `accumulate`; probably bitset.
