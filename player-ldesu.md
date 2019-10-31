@@ -8,3 +8,6 @@
 - #4 - Median of Two Sorted Arrays. Boundaries henmafan. Probably need more patience
 ## 2019-10-31
 - #5 - Longest Palindromic Substring. Dynamic
+## 2019-11-01
+- #6 - ZigZag Conversion. Easy pattern search
+- #7 - Reverse Integer. Need to check if the number overflows
