@@ -31,3 +31,25 @@ Easy array continues. Trying to get into a meditating state and solve easy probl
 - #1089 - duplicate zeros. classic two-pointers; a good practice on edge cases.
 - #888 - fair candy swap. basically the same as Two Sum; the use of `unordered_set` and `accumulate`; probably bitset.
 - #1013 - partition array...
+
+## 2019-10-31
+- #1184 - distance between bus stops.
+- #896 - monotonic array.
+- #485 - max consecutive ones.
+- #283 - move zeroes.
+- #169 - majority element.
+- #448 - find all numbers disappeared in an array. Using positive/negative to store information.
+- #217 - contains duplicate.
+- #122 - best time to buy and sell stock ii. Greedy.
+- #697 - degree of an array.
+- #167 - two sum ii - input array is sorted. Because sorted, use two pointers from both ends to narrow down the possibilities.
+
+Then I got bored doing array questions and moved on to linked lists.
+
+- #876 - middle of the linked list. fast/slow pointer.
+- #206 - reverse linked list. quite annoying to do recursion in c++.
+- #237 - delete node in a linked list.
+- #21 - merge two sorted lists.
+
+
+
