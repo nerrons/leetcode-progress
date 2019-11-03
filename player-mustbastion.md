@@ -51,5 +51,13 @@ Then I got bored doing array questions and moved on to linked lists.
 - #237 - delete node in a linked list.
 - #21 - merge two sorted lists.
 
+## 2019-11-01
+Continues doing easy linked lists.
+- #83 - remove duplicates from sorted list.
+- #141 - linked list cycle. fast/slow pointer.
+- #234 - palindrome linked list. fast/slow pointer. reversing a linked list.
+- #203 - remove linked list elements.
+- #160 - intersection of two linked lists. double pointer.
 
+Done easy linked lists.
 
