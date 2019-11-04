@@ -11,3 +11,6 @@
 ## 2019-11-01
 - #6 - ZigZag Conversion. Easy pattern search
 - #7 - Reverse Integer. Need to check if the number overflows
+## 2019-11-04
+- #98 - Validate Binary Search Tree
+- #101 - Symmetric Tree  
