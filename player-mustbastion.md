@@ -61,3 +61,24 @@ Continues doing easy linked lists.
 
 Done easy linked lists.
 
+## 2019-11-10
+Spending time with girlfriend, no time for leetcode. But managed to do more easy problems.
+- #1108 - defanging an ip address. no brainer.
+- #1221 - split a string in balanced strings. maintain a single state.
+- #709 - to lower case.
+- #804 - unique morse code words. set.
+- #657 - robot return to origin. brute.
+- #929 - unique email addresses. brute + stl.
+- #557 - reverse words in a string iii. stl.
+- #344 - reverse string. swap in-place.
+- #893 - groups of special-equivalent strings. assign signatures for counting unique stuff.
+- #1189 - max number of balloons. map.
+- #824 - goat latin. brute.
+- #1170 - compare strings by freq... brute.
+- #521 - longest uncommon subsequence i. brain teaser.
+- #917 - reverse only letters. two-pointer/stack
+- #696 - count binary substrings. math
+- #937 - reorder data in log files. lambda
+- #1071 - greatest comon divisor of strings. observation
+- #13 - roman to integer. brute
+
