@@ -14,3 +14,7 @@
 ## 2019-11-04
 - #98 - Validate Binary Search Tree
 - #101 - Symmetric Tree  
+## 2019-11-13
+- #23 - Merge k Sorted Lists. Heapify nodes heads. Straightforward question.
+- #53 - Maximum Subarray.
+- #169 - Majority Element. Sort and return middle. Literally two lines of code.
