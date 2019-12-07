@@ -18,3 +18,7 @@
 - #23 - Merge k Sorted Lists. Heapify nodes heads. Straightforward question.
 - #53 - Maximum Subarray.
 - #169 - Majority Element. Sort and return middle. Literally two lines of code.
+## 2019-12-07
+- #12 - Integer to Roman. Tired. Only be able to do some simple parsing questions
+- #13 - Roman to Integer
+- #11 - Container With Most Water. Two pointer. Classic
