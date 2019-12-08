@@ -22,3 +22,9 @@
 - #12 - Integer to Roman. Tired. Only be able to do some simple parsing questions
 - #13 - Roman to Integer
 - #11 - Container With Most Water. Two pointer. Classic
+## 2019-12-08
+- #50 - Pow(x, n)
+- #69 - Sqrt(x). Binary search
+- #367 - Valid Perfect Square
+- #633 - Sum of Square Number
+- #372 - Super Pow. (a * b) % c = ((a % c) * b) % c
