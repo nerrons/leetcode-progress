@@ -28,3 +28,5 @@
 - #367 - Valid Perfect Square
 - #633 - Sum of Square Number
 - #372 - Super Pow. (a * b) % c = ((a % c) * b) % c
+## 2019-12-23
+- #15 - 3Sum. Sort and use 2 pointers
